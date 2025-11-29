@@ -1,3 +1,23 @@
+# generativeAIinTranslation
+This is a repo for our Research and Methodology group project
+
+Author:
+
+Alan Zhong 1312041
+Chomba Waihenya 1303398
+GROUP 1
+
+We are thankful that this project is built on the original research paper 
+_How Good Are GPT Models at Machine Translation? A Comprehensive Evaluation_
+by Amr Hendy, Mohamed Abdelrehim, Amr Sharaf, Vikas Raunak,
+Mohamed Gabr, Hitokazu Matsushita, Young Jin Kim,
+Mohamed Afify, Hany Hassan Awadalla
+
+Their original work can be accessed publicly at https://github.com/microsoft/gpt-MT
+
+
+===============Original README Content===============
+
 <p align="center">
   <img width="600" height="150" src="assets/MT-GPT.png">
 </p>
